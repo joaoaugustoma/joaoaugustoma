@@ -5,9 +5,7 @@
 </em></p>
 
 [![Twitter: languimm](https://img.shields.io/twitter/follow/languimm?style=social)](https://twitter.com/languimm)
-
 [![Linkedin: joaoaugustoananias](https://img.shields.io/badge/-joaoaugustoananias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaoaugustoananias/)](https://www.linkedin.com/in/joaoaugustoananias/)
-
 [![GitHub joaoaugustoma](https://img.shields.io/github/followers/joaoaugustoma?label=follow&style=social)](https://github.com/joaoaugustoma)
 
 ### <img src="https://media.giphy.com/media/MJAFEvVyg61XeQeVzy/giphy.gif" width="50"> A little more about me...
