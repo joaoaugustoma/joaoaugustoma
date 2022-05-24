@@ -15,7 +15,7 @@ const languim = {
   pronouns: "he" | "him",
   code: [Javascript, Typescript, HTML, CSS, Java, C],
   tools: [Angular 8+, SpringBoot, JPA,  Styled - Components],
-  architecture: ["microservices", "event-driven", "design system pattern", "RESTFul API", "JWT"],
+  architecture: ["microservices", "event-driven", "UX / UI", "RESTFul API", "JWT"],
 };
 ```
 
