@@ -22,7 +22,7 @@ const languim = {
 <img src="https://media.giphy.com/media/RuuhJaT9gg2Bmu0jAU/giphy.gif" width="80"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 <p>
-<em>Gifs by <a href="https://giphy.com/lazycorgihk" target="_blank>Lazy Corgi on Giphy</a></em>
+<em>Gifs by <a href="https://giphy.com/lazycorgihk" target="_blank">Lazy Corgi on Giphy</a></em>
 </p>
 
 ---
