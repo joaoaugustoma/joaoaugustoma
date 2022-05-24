@@ -13,8 +13,8 @@
 ```javascript
 const languim = {
   pronouns: "he" | "him",
-  code: [Javascript, Typescript, HTML, CSS, Java, C],
-  tools: [Angular 8+, SpringBoot, Spring Data / JPA,  Styled - Components, Swagger],
+  code: [Javascript, Typescript, HTML, CSS, Java, C, SQL / JPQL],
+  tools: [Angular 8+, SpringBoot, Spring Data / JPA,  Styled - Components, Swagger, PostgreSQL],
   architecture: ["microservices", "event-driven", "UX / UI", "RESTFul API", "JWT"],
 };
 ```
