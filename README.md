@@ -13,9 +13,9 @@
 ```javascript
 const languim = {
   pronouns: "he" | "him",
-  code: [Javascript, Typescript, HTML, CSS, Java, C, SQL / JPQL],
-  tools: [Angular 8+, SpringBoot, Spring Data / JPA,  Styled - Components, Swagger, PostgreSQL],
-  architecture: ["microservices", "event-driven", "RESTFul API", "JWT"],
+  code: [Javascript, Typescript, HTML, CSS, Java, C, SQL / HQL],
+  tools: [Angular 8+, SpringBoot, Spring Data / JPA,  Styled - Components, Swagger, PostgreSQL, Oracle],
+  architecture: ["RESTFul API", "JWT"],
   skills: ["UX / UI", "Project Management"]
 };
 ```
