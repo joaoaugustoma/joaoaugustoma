@@ -4,7 +4,6 @@
 <p><em>Information Systems undergraduate student at <a href="http://www.ueg.br">State University of Goiás</a><img src="https://media.giphy.com/media/3cwLpdCalQrML78gbe/giphy.gif" width="50"></br>Full Stack Web Developer at <a href="https://www.unikasistemas.com.br">UnikaSistemas</a><img src="https://media.giphy.com/media/B8FhJRVoUvMNKTTtVI/giphy.gif" width="50"> 
 </em></p>
 
-[![Twitter: languimm](https://img.shields.io/twitter/follow/languimm?style=social)](https://twitter.com/languimm)
 [![Linkedin: joaoaugustoananias](https://img.shields.io/badge/-joaoaugustoananias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaoaugustoananias/)](https://www.linkedin.com/in/joaoaugustoananias/)
 [![GitHub joaoaugustoma](https://img.shields.io/github/followers/joaoaugustoma?label=follow&style=social)](https://github.com/joaoaugustoma)
 
