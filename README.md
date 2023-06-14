@@ -13,7 +13,7 @@
 const languim = {
   pronouns: "he" | "him",
   code: [Javascript, Typescript, HTML, CSS, Java, C, SQL / HQL],
-  tools: [Angular 8+, SpringBoot, Spring Data / JPA,  Styled - Components, Swagger, PostgreSQL, Oracle],
+  tools: [Angular 2+, SpringBoot, Spring Data / JPA, Swagger, PostgreSQL, MySQL, MariaDB, Oracle],
   architecture: ["RESTFul API", "JWT"],
   skills: ["UX / UI", "Project Management"]
 };
